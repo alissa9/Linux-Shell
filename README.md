@@ -1,22 +1,20 @@
 # Operating Systems - CourseWork 1 - a Simple Linux Shell
-GROUP MEMBERS:
-
- ## Mohamad Ikbal Alissa M00714688
- 
- ## Sohail Gasis M0071660 
- 
- ## Mohamad Hamza Ibrahim M00737296
- 
-
-  
+### GROUP MEMBERS:-
+<Mohamad Hamza Ibrahim M00737296> 
+<Sohail Gasis M0071660 >  
+<Mohamad Ikbal Alissa M00714688> 
  
 # Objectives:-
-Create a working command line shell.
-Gain experience in C language to create simple projects
-Learn and implement the usage of Makefiles
-# Description:-
-This is a project in which we have worked as a group in order to Develop and implement a command line shell on a specified UNIX platform. The shell was created using c language allowing the group to obtain many resources online. The command line shell supports the following internal commands:-
+1. Creat a working command line shell.
+2. Gain experience in C language to create simple projects <br>
+3. Learn and implement the usage of Makefiles <br><br>
 
+# Description:-
+This is a project in which we have worked as a group in order to 
+Develop and implement a command line shell on a specified UNIX platform.
+The shell was created using c language allowing the group to obtain many resources online. 
+The command line shell supports the following internal commands:- 
+```bash
 "help": shows a help menu with all the commands that is suitable for the shell <br>
 "dir <directory>":  Lists the contents of the directory <br>
 "print <comment>": Displays comment on the command line followed by a newline (multiple spaces is reduced to a single space).<br>
@@ -53,3 +51,5 @@ for this project we have used a vmware with linux operating system and used the 
 # background program execution:-
 In Unix, independently of the shell, a background process runs, leaving the terminal free for other work. use "&" at the end of a command to run
 a process in the background. This can be done within the terminal.
+
+
