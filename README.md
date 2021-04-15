@@ -1,8 +1,10 @@
 # Operating Systems - CourseWork 1 - a Simple Linux Shell
 GROUP MEMBERS:
- <Mohamad Hamza Ibrahim M00737296>
- <Sohail Gasis M0071660 > 
- <Mohamad Ikbal Alissa M00714688>
+ Mohamad Ikbal Alissa M00714688
+ Sohail Gasis M0071660 
+ Mohamad Hamza Ibrahim M00737296
+ 
+
   
  
 Objectives:-
