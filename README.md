@@ -1,4 +1,4 @@
-Operating Systems - CourseWork 1 - a Simple Linux Shell
+#Operating Systems - CourseWork 1 - a Simple Linux Shell
 GROUP MEMBERS:-
 Objectives:-
 Creat a working command line shell.
