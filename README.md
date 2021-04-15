@@ -1,7 +1,12 @@
 # Operating Systems - CourseWork 1 - a Simple Linux Shell
-GROUP MEMBERS:-
+GROUP MEMBERS:
+ <Mohamad Hamza Ibrahim M00737296>
+ <Sohail Gasis M0071660 > 
+ <Mohamad Ikbal Alissa M00714688>
+  
+ 
 Objectives:-
-Creat a working command line shell.
+Create a working command line shell.
 Gain experience in C language to create simple projects
 Learn and implement the usage of Makefiles
 
